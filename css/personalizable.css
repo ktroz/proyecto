@@ -1,9 +1,14 @@
 .titulo{
   font-family: 'Orbitron', sans-serif;
 }
-h4,h3,h2{
+h4,h3{
     font-family: 'Orbitron', sans-serif;
     color:white;
+}
+h2{
+  font-family: 'Orbitron', sans-serif;
+  color:white;
+  text-align: justify;
 }
 body{
   background: url(multimedia/fondo.jpg) no-repeat center center fixed;
@@ -13,7 +18,9 @@ body{
   background-size: cover;
 }
 p{
+  font-family: 'Russo One', sans-serif;
   color:#9f9f9f;
+  text-align: justify;
 }
 .navbar-collapse{
     background-color: #191919;
