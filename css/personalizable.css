@@ -1,0 +1,23 @@
+.titulo{
+  font-family: 'Orbitron', sans-serif;
+}
+h4,h3,h2{
+    font-family: 'Orbitron', sans-serif;
+    color:white;
+}
+body{
+  background: url(multimedia/fondo.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+p{
+  color:#9f9f9f;
+}
+.navbar-collapse{
+    background-color: #191919;
+}
+.breadcrumb {
+    background-color: #FFFFF;
+}
