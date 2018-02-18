@@ -31,3 +31,22 @@ p{
 video{
   border-radius: 25px;
 }
+/*Inicio de personalización de la página 3*/
+#img1{
+  float:right;
+  margin: inherit;
+  padding:inherit;
+  border-radius: 10px;
+}
+#img2{
+  float:left;
+  margin: inherit;
+  padding:inherit;
+  border-radius: 10px;
+}
+#img3{
+  float:right;
+  margin: inherit;
+  padding:inherit;
+  border-radius: 10px;
+}
