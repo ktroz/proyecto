@@ -44,9 +44,17 @@ video{
   padding:inherit;
   border-radius: 10px;
 }
+<<<<<<< HEAD
 /*Inicio de la personalización de la página 4*/
 label{
   font-family: 'Orbitron', sans-serif;
   color:white;
   text-align: justify;
+=======
+#img3{
+  float:right;
+  margin: inherit;
+  padding:inherit;
+  border-radius: 10px;
+>>>>>>> master
 }
